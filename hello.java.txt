@@ -1,5 +1,10 @@
 public class Hello{
+int a, b;
 public static void main(String[] args){
 System.out.println("Hello")
+a = 10;
+b = 2;
+a = a+b;
+System.out.println(a);
 }
 }
