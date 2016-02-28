@@ -9,3 +9,4 @@ System.out.println(a);
 final;
 }
 }
+куку мой друг
